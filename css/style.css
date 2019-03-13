@@ -427,7 +427,7 @@ h5 {
     display: table;
     height: 100vh;
     width: 100%;
-	background-image: url("smoke-bg.jpg");
+	background-image: url("../img/smoke-bg.jpg");
 }
 
 .box-intro .table-cell {
