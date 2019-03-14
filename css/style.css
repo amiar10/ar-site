@@ -39,6 +39,8 @@ body {
     line-height: 1.8;
     color: #999;
     background-image: url("../img/smoke-bg.jpg");
+    background-size: 215% 215%;
+    
 }
 
 .no-padding {
