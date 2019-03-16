@@ -450,7 +450,7 @@ b i:last-child {
 .box-intro h5 {
     letter-spacing: 4px;
     text-transform: uppercase;
-    color: #999;
+    color: lightgray;
     line-height: 1.7
 }
 
