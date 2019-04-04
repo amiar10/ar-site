@@ -66,6 +66,14 @@ a {
     transition: all .3s
 }
 
+.portfolio-link a:link {
+     color:#337ab7;
+}
+
+.portfolio-link a:hover {
+     color:blueviolet;
+}
+
 .uppercase {
     text-transform: uppercase;
 }
